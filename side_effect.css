@@ -1,0 +1,47 @@
+input{
+    border: 1px solid black;
+    border-radius: 3px;
+    margin-left: 5px;
+}
+
+
+#header{
+    color: white;
+    text-align: center;
+    height: 100px;
+    background-color:black;
+    font-family: Georgia;
+    font-size: x-large;
+}
+
+#form{
+    text-align: center;
+    font-family: 'Trebuchet MS';
+    font-size: large;
+    margin-top: 40px;
+    padding: 10px;
+}
+
+.name{
+    font-family: 'Trebuchet MS';
+    font-size: large;
+    width: 200px;
+}
+
+.number{
+    font-family: 'Trebuchet MS';
+    font-size: large;
+    width: 200px;
+}
+
+a{
+    color: white;
+    margin: 100px;
+    text-decoration: none;
+    padding: 2px;
+}
+
+textarea{
+    border: 1px solid black;
+    border-radius: 3px;
+} 
